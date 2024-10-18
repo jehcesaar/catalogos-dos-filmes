@@ -1,4 +1,11 @@
 body {
     background-color: black;
+    color: white;
+}
+
+header {
+    font-size: 45px;
     color: yellow;
+    border-bottom: solid 10px gray;
+    text-align: center;
 }
