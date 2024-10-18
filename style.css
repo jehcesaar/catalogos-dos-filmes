@@ -9,3 +9,8 @@ header {
     border-bottom: solid 15px gray;
     text-align: center;
 }
+
+section{
+    display: flex;
+    background-color:  rgba(255, 255, 0, 0.745);
+}
