@@ -22,3 +22,8 @@ section{
 .texto{
     margin-right: 5%;
 }
+
+img {
+    width: 210px;
+    height: 280px;
+}
