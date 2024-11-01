@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    margin: 0px;
 }
 
 header {
@@ -12,5 +13,7 @@ header {
 
 section{
     display: flex;
-    background-color: black
+    background-color: black;
+    padding: 30px;
+    justify-content: center;
 }
