@@ -26,7 +26,15 @@ header {
 img {
     width: 210px;
     height: 280px;
+    opacity: 0.7;
 }
+
+img:hover{
+    opacity: 1.0;
+    border: solid 2px white;
+}
+
+
 .segunda {
     justify-content: center;
     margin-bottom: 80px;
