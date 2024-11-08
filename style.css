@@ -36,3 +36,8 @@ img {
 h2{
     text-align: center;
 }
+
+.outros {
+    justify-content: center;
+    margin-left: 10%;
+}
