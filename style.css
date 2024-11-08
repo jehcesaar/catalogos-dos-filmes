@@ -27,4 +27,7 @@ img {
     width: 210px;
     height: 280px;
 }
-.segunda
+.segunda {
+    justify-content: center;
+    margin-bottom: 80px;
+}
